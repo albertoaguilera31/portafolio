@@ -396,7 +396,7 @@ footer{
     }
 }
 
-@media screen and (max-width: 435px){
+@media screen and (max-width: 650px){
 
     .sobre-mi{
         padding-top: 30px;
