@@ -446,6 +446,18 @@ footer{
     color: #615151;
 }
 
+/*estilo de las certificaciones de Google*/
 
+.image-link img {
+    width: 150px; /* Tamaño de las imágenes */
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.image-link {
+    display: inline-block; /* Permite que las imágenes se alineen una al lado de la otra */
+    margin: 10px; /* Espaciado entre las imágenes */
+}
 
 
